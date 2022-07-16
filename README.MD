@@ -1,0 +1,1 @@
+Implementation of a neural net to classify the mnist dataset using only numpy (from scratch)
